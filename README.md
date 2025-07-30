@@ -1,16 +1,28 @@
-## Hi there 👋
+# Rivaland Tawouafo Ngute ![Fullstack Developer Badge](https://img.shields.io/badge/Fullstack_Developer-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
-<!--
-**caporalCode/caporalCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Rivaland — a **fullstack developer** passionate about building web and mobile hybrid apps, integrating AI into business workflows, and crafting seamless UI/UX experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Skills
+- **Languages & Tools:** TypeScript, Nuxt.js, Vue.js, Ruby on Rails, Python, Docker
+- **AI & Computer Vision:** OpenCV, YOLO, Langchain
+- **Design:** Figma, Photoshop, Illustratr
+- **App Development:** Web, Mobile Hybrid, UI/UX
+
+---
+
+### 🏪 Notable Project
+- **[spe.store](https://site.spe-store-sarl.com)** — eCommerce platform
+
+---
+
+### 📬 Connect
+- [LinkedIn](https://www.linkedin.com/in/rivaland-tawouafo-ngute/)
+- [Personal Website](https://rivaland.dev)
+
+---
+
+### 🎨 Interests
+Mangas | Art | Poetry  | Travel | People
+*"First do it. Then do it well. Then do it better."*
