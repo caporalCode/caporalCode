@@ -12,11 +12,6 @@ Hi, I'm Rivaland — a **fullstack developer** passionate about building web and
 
 ---
 
-### 🏪 Notable Project
-- **[spe.store](https://site.spe-store-sarl.com)** — eCommerce platform
-
----
-
 ### 📬 Connect
 - [LinkedIn](https://www.linkedin.com/in/rivaland-tawouafo-ngute/)
 - [Personal Website](https://rivaland.dev)
