@@ -20,4 +20,4 @@ Hi, I'm Rivaland — a **fullstack developer** passionate about building web and
 
 ### 🎨 Interests
 Mangas | Art | Poetry  | Travel | People
-*"First do it. Then do it well. Then do it better."*
+*"First do it. Then do it right. Then do it better."*
